@@ -24,6 +24,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Sorter" />
+        <module name="sorter" />
       </profile>
     </annotationProcessing>
   </component>
